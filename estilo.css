@@ -1,0 +1,13 @@
+h1, p, i {
+    color: blue;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.titulo{
+    color: red;
+}
+
+#paragrafo{
+    color: purple;
+}
